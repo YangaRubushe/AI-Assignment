@@ -1,6 +1,6 @@
 // Authors Surname: Rubushe
 // Authors Name: Yanga
-// File Description: "NineSoldiers" reads an initial state from "inputD.txt," performs Best-First Search with a heuristic, and outputs the sequence of expanded nodes and the solution state to "OutputB.txt," displaying the number of moves taken to reach the goal state. It uses a parameterized input file, output file, and initial moves to provide flexibility for testing different scenarios.
+// File Description: "NineSoldiers" reads an initial state from "inputC.txt," performs Best-First Search with a heuristic, and outputs the sequence of expanded nodes and the solution state to "OutputB.txt," displaying the number of moves taken to reach the goal state. It uses a parameterized input file, output file, and initial moves to provide flexibility for testing different scenarios.
 import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
