@@ -2,7 +2,7 @@
 
 This Java program aims to solve the Nine Little Soldiers puzzle, where 9 numbered soldiers are trapped in a bomb shelter with 13 cells. The goal is to move the soldiers to their corresponding numbered cells, ensuring soldier 1 is in cell 1, soldier 2 in cell 2, and so on until soldier 9 is in cell 9. 
 
-![nine soldiers](https://github.com/YangaRubushe/AI-Assignment/assets/118383164/d424a880-ea7f-4732-85e9-f13336505ee0)
+![nine soldiers1](https://github.com/YangaRubushe/AI-Assignment/assets/118383164/5bf028c5-025e-4990-a150-8ac96a423080)
 
 ## Task Formulation
 
