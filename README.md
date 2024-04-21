@@ -36,5 +36,5 @@ The Java implementation of the Best First Search algorithm is provided in the `N
 - The program also shows the number of moves taken to reach the goal state.
 - Output is written to both an output file and displayed on the screen.
 
-### Author:
+## Author:
 - Yanga Rubushe
