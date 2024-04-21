@@ -2,6 +2,7 @@
 
 This Java program aims to solve the Nine Little Soldiers puzzle, where 9 numbered soldiers are trapped in a bomb shelter with 13 cells. The goal is to move the soldiers to their corresponding numbered cells, ensuring soldier 1 is in cell 1, soldier 2 in cell 2, and so on until soldier 9 is in cell 9.
 
+![nine soldiers](https://github.com/YangaRubushe/AI-Assignment/assets/118383164/bbb77c4e-3b40-473f-bad2-aadc7a9745f2)
 ## Task Formulation
 
 ### State
@@ -34,5 +35,5 @@ The Java implementation of the Best First Search algorithm is provided in the `N
 - The program also shows the number of moves taken to reach the goal state.
 - Output is written to both an output file and displayed on the screen.
 
-**Author:**
+### Author:
 - Yanga Rubushe
